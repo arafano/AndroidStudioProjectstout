@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="frontflutter">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/android/app/src/main/java" />
+      <root url="file://$PROJECT_DIR$/native_add/example/android/app/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

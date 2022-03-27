@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.stripe:payments-core:18.1.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../Public/CapsuleTemporelle/gradle-7.2-bin/caches/transforms-2/files-2.1/756773bc1cc26d65313db6e4b222e672/jetified-payments-core-18.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../Public/CapsuleTemporelle/gradle-7.2-bin/caches/transforms-2/files-2.1/756773bc1cc26d65313db6e4b222e672/jetified-payments-core-18.1.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

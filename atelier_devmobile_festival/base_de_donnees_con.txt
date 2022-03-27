@@ -1,0 +1,3 @@
+Nom de la base de données : onprogramme
+Utilisateur de la base de données : tutos 
+Mot de passe de la bdd : 35@J9H+Nlh7!7$15
